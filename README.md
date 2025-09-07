@@ -27,7 +27,7 @@ Uses Windows API:
 
 ***
 
-# Copy patched DLLs for easy access to built in windows features.
+## Copy patched DLLs for easy access to built in windows features.
 
 [Additional DLLs](https://github.com/shepfishy/NapWindower/tree/main/Additional%20DLLs)
 
