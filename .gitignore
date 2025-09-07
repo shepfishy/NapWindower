@@ -19,7 +19,6 @@ Release/
 *.a
 *.so
 *.dylib
-*.dll
 
 # CMake
 CMakeCache.txt
@@ -69,3 +68,5 @@ Makefile*
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+$1
