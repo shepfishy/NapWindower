@@ -60,11 +60,6 @@ if defined COPY_FAILED (
 ) else (
     echo.
     echo All patched DLLs copied successfully!
-    echo.
-    echo To finish installation, your machine needs a restart.
-    echo Restarting system in 10 seconds...
-    timeout /t 10 /nobreak
-    shutdown /r /t 0
 )
 
 echo.
